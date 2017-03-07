@@ -1,0 +1,11 @@
+{
+  "name": "file-compress-decompress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Madhav Kaneriya",
+  "dependencies": {
+    "async": "^2.1.5",
+    "lodash": "^4.17.4"
+  }
+}
