@@ -6,6 +6,7 @@
   "author": "Madhav Kaneriya",
   "dependencies": {
     "async": "^2.1.5",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "node-persist": "^2.0.8"
   }
 }
